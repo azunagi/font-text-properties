@@ -87,7 +87,7 @@ nav a{
 	padding: 1rem;
 	background-color: var(--tiffany);
 	/* set the font color to #222 (--dk-gray) */
-	color: var(--dk gray);
+	color: var(--dk-gray);
 	/* center align the text */
 	text-align: center;
 	/* remove the underline */
